@@ -2,3 +2,5 @@
 *.log
 **/target
 **/sbt.json
+**/.bloop
+**/.metals
